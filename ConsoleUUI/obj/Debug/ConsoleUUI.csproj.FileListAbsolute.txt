@@ -1,0 +1,16 @@
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\bin\Debug\ConsoleUUI.exe.config
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\bin\Debug\ConsoleUUI.exe
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\bin\Debug\ConsoleUUI.pdb
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\bin\Debug\Business.dll
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\bin\Debug\DataAccess.dll
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\bin\Debug\Entities.dll
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\bin\Debug\Business.pdb
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\bin\Debug\DataAccess.pdb
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\bin\Debug\Entities.pdb
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\obj\Debug\ConsoleUUI.csprojAssemblyReference.cache
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\obj\Debug\ConsoleUUI.csproj.CoreCompileInputs.cache
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\obj\Debug\ConsoleUUI.csproj.CopyComplete
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\obj\Debug\ConsoleUUI.exe
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\obj\Debug\ConsoleUUI.pdb
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\bin\Debug\GenelClass.dll
+C:\Users\SametKürücü\source\repos\FinalProject\ConsoleUUI\bin\Debug\GenelClass.pdb

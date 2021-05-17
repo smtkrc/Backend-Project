@@ -1,0 +1,8 @@
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\bin\Debug\netstandard2.0\GenelClass.deps.json
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\bin\Debug\netstandard2.0\GenelClass.dll
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\bin\Debug\netstandard2.0\GenelClass.pdb
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\obj\Debug\netstandard2.0\GenelClass.AssemblyInfoInputs.cache
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\obj\Debug\netstandard2.0\GenelClass.AssemblyInfo.cs
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\obj\Debug\netstandard2.0\GenelClass.csproj.CoreCompileInputs.cache
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\obj\Debug\netstandard2.0\GenelClass.dll
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\obj\Debug\netstandard2.0\GenelClass.pdb

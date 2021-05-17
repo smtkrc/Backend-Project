@@ -1,0 +1,14 @@
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\GeneralClass.dll
+C:\Users\SametKürücü\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\GeneralClass.pdb

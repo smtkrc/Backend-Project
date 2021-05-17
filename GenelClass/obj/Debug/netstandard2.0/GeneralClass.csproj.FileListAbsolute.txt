@@ -1,0 +1,9 @@
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\bin\Debug\netstandard2.0\GeneralClass.deps.json
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\bin\Debug\netstandard2.0\GeneralClass.dll
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\bin\Debug\netstandard2.0\GeneralClass.pdb
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\obj\Debug\netstandard2.0\GeneralClass.csprojAssemblyReference.cache
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\obj\Debug\netstandard2.0\GeneralClass.AssemblyInfoInputs.cache
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\obj\Debug\netstandard2.0\GeneralClass.AssemblyInfo.cs
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\obj\Debug\netstandard2.0\GeneralClass.csproj.CoreCompileInputs.cache
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\obj\Debug\netstandard2.0\GeneralClass.dll
+C:\Users\SametKürücü\source\repos\FinalProject\GenelClass\obj\Debug\netstandard2.0\GeneralClass.pdb
